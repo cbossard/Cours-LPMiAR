@@ -162,7 +162,11 @@ image::images/tailleRelativeBurnUp.png[]
 
 Et la valeur est indépendante de la taille
 
+image::images/valeur.png[]
+
 === Maximiser la valeur, pas la quantité
+
+image::images/maximiserValeur.png[]
 
 [%notitle]
 === Quote
@@ -172,14 +176,17 @@ ____
 Il semble que la perfection soit atteinte, non pas quand il n'y a plus rien à ajouter, mais quand il n'y a plus rien à retrancher.
 ____
 
-
-
-
 === Exemple
+
+image::images/google.png[]
 
 === Ne donnez pas à l'équipe une solution à mettre en oeuvre
 
+image::images/buildBridge.png[]
+
 === Donnez leur un problème à résoudre
+
+image::images/buildBridge2.png[]
 
 === Toujours préciser le pourquoi
 
@@ -190,6 +197,8 @@ Je veux ...
 *Afin de* ...
 
 === Améliorer la courbe de valeur
+
+image::images/coureValeur.png[]
 
 === Time-boxing
 
