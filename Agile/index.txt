@@ -14,7 +14,6 @@ ____
 Early deliver of business value
 ____
 
-Retour sur investissement rapide
 
 === Chaque produit commence par une idée géniale ...
 
@@ -198,11 +197,15 @@ Je veux ...
 
 === Améliorer la courbe de valeur
 
-image::images/coureValeur.png[]
+image::images/courbeValeur.png[]
 
-=== Time-boxing
+=== Améliorer la courbe de valeur
+
+image::images/courbeValeur2.png[]
 
 === Iron triangle
+
+image::images/ironTriangle.png[]
 
 === Feedback
 
@@ -216,6 +219,8 @@ ____
 == Equipe
 
 === Equipe pluri-disciplinaires
+
+image::images/squads.png[]
 
 === Caractéristiques d'une super équipe
 
@@ -233,6 +238,8 @@ ____
 * Transparente
 
 === L'équipe alterne des travaux à longs et à courts termes
+
+image::images/travauxLongsTermes.png[]
 
 === L'équipe s'améliore continuellement
 
