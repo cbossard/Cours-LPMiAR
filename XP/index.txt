@@ -15,13 +15,13 @@
 XP est une discipline de développement logiciel basée sur les valeurs de
 *simplicité*, *communication*, *feedback*, *courage* et *respect*.
 
-== eXtreme Programming
+=== eXtreme Programming
 
 Elle fonctionne en regroupant toute l'équipe et en utilisant des *pratiques simples*,
 avec suffisamment de feedbacks pour permettre à l'équipe de voir où elle en est et
 pour adapter les pratiques à sa situation particulière.
 
-== 13 pratiques
+=== 13 pratiques
 
 Le but est d'utiliser les bonnes pratiques de développement, et de les pousser à l'extrême
 
