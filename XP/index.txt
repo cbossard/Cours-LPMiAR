@@ -1,0 +1,86 @@
+= eXtreme Programming (XP)
+==============================
+:author:    Cécilia Bossard
+:backend:   revealjs
+:max-width: 45em
+:data-uri:
+:customcss:
+:icons: font
+:transition: fade
+:revealjs_history: true
+
+== eXtreme Programming
+
+
+XP est une discipline de développement logiciel basée sur les valeurs de
+*simplicité*, *communication*, *feedback*, *courage* et *respect*.
+
+== eXtreme Programming
+
+Elle fonctionne en regroupant toute l'équipe et en utilisant des *pratiques simples*,
+avec suffisamment de feedbacks pour permettre à l'équipe de voir où elle en est et
+pour adapter les pratiques à sa situation particulière.
+
+== 13 pratiques
+
+Le but est d'utiliser les bonnes pratiques de développement, et de les pousser à l'extrême
+
+[%notitle]
+== 13 pratiques
+
+image::images/ExtremeProgramming.png[size=cover]
+
+=== Qualité
+
+Binômage::
+  La revue de code est une bonne pratique. Poussée à l'extrême, elle se fait en permanence via la programmation en binômes
+
+Tests fonctionnels::
+  L'équipe réalise des tests qui permettent de valider les développements réalisés, conformément aux scénarios définis par le client.
+
+=== Qualité
+
+Test Driven Development::
+  Ecrire les tests unitaires en amont du code permet de réduire la boucle de feedback et assure un bonne couverture du code.
+
+Intégration continue::
+  Il faut régulièrement tester l'intégration du code développé par chaque membre de l'équipe. En poussant cette pratique à l'extrême, on teste l'intégration du code en permanence.
+
+=== Bonne conception
+
+Conception simple::
+  Plus l'application sera simple, plus il sera facile de la faire évoluer. Il ne faut pas anticiper des besoins futurs qui n'auront peut-être pas lieu d'être.
+
+Refactoring::
+  Le code est remanié en permanence, sans modifier son comportement. Le but de ce remaniement est d'en augmenter la lisibilité et l'évolutivité.
+
+=== Développements itératifs
+
+Petites livraisons::
+  Les livraisons doivent être les plus fréquentes possibles. L'intégration continue et les tests réduisent les coûts de ces livraisons.
+
+Planning poker (planning game)::
+  Les estimations sont réalisées par l'équipe qui développera. Le client pourra par la suite prioriser en fonction de ces estimations collectives.
+
+=== Développements itératifs
+
+Rythme soutenable::
+  L'équipe doit pouvoir tenir le rythme indéfiniment. Si elle doit faire des heures supplémentaires, il faut revoir le planning. Un développeur fatigué travaille mal.
+
+=== Appropriation collective
+
+Appropriation collective du code::
+  Chaque développeur doit être en mesure d'intervenir sur n'importe quelle portion du code.
+
+Convention de nommage::
+  Etant donné que les développeurs peuvent intervenir sur toutes les portions du code, des conventions sont nécessaires pour garder une cohérence de la base de code.
+
+=== Bonne communication
+
+Equipe entière::
+  Chaque contributeur du projet fait partie entière de l'équipe. L'équipe se forme autour du client (ou de son représentant) et ils travaillent ensemble en permanence.
+
+Utilisation de métaphores::
+  On utilise des analogies pour s'assurer d'une bonne compréhension entre le client et l'équipe de développement.
+
+== XP est une méthode agile complémentaire des autres méthodes

@@ -1,0 +1,81 @@
+= Kanban
+==============================
+:author:    Cécilia Bossard
+:backend:   revealjs
+:max-width: 45em
+:data-uri:
+:customcss:
+:icons: font
+:transition: fade
+:revealjs_history: true
+
+== Kanban
+
+Kanban ("étiquette" en japonais) est un système utilisé pour limiter les tâches en cours.
+
+Comme Scrum, les règles sont simples à comprendre, mais complexes à mettre en oeuvre.
+
+Elle se base sur quatre principes de base et cinq pratiques.
+
+== Les principes
+
+* Commencez là où vous en êtes
+* Acceptez d'appliquer les changements évolutifs et augmentés
+* Respectez le processus actuel, les rôles, les responsabilités et les titres
+* Leadership à tous les niveaux
+
+== Les pratiques
+
+* Visualiser
+* Limiter le nombre de tâches en cours
+* Gestion du flux
+* Rendre les normes de processus explicites
+* Utiliser des modèles pour reconnaître les opportunités d'amélioration
+
+== Exemple
+
+image::images/kanban_land_1.png[size=cover]
+
+== Exemple
+
+image::images/kanban_land_2.png[size=cover]
+
+== Exemple
+
+image::images/kanban_land_3.png[size=cover]
+
+== Exemple
+
+image::images/kanban_land_4.png[size=cover]
+
+== Exemple
+
+image::images/kanban_land_5.png[size=cover]
+
+== Exemple
+
+image::images/kanban_land_6.png[size=cover]
+
+== Exemple
+
+image::images/kanban_land_7.png[size=cover]
+
+== Exemple
+
+image::images/kanban_land_8.png[size=cover]
+
+== Exemple
+
+image::images/kanban_land_9.png[size=cover]
+
+== Exemple
+
+image::images/kanban_land_10.png[size=cover]
+
+== Exemple
+
+image::images/kanban_land_11.png[size=cover]
+
+== Exemple
+
+image::images/kanban_land_12.png[size=cover]

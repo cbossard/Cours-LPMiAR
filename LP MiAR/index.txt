@@ -1,0 +1,19 @@
+= Introduction aux méthodes agiles
+==============================
+:author:    Cécilia Bossard <@ceciliaBossard>
+:backend:   revealjs
+:max-width: 45em
+:data-uri:
+:customcss:
+:icons: font
+:transition: fade
+:revealjs_history: true
+
+
+== Planning de la journée
+
+* link:../Agile/index.html[Qu'est ce que l'agilité ?]
+* Le Manifeste en pratique
+* link:../Scrum/index.html[Scrum]
+* link:../Kanban/index.html[Kanban]
+* link:../XP/index.html[XP]

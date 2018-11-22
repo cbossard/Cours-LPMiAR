@@ -1,0 +1,232 @@
+= Agile ?
+==============================
+:author:    Cécilia Bossard
+:backend:   revealjs
+:max-width: 45em
+:data-uri:
+:customcss:
+:icons: font
+:transition: fade
+:revealjs_history: true
+
+== Introduction
+____
+Early deliver of business value
+____
+
+Retour sur investissement rapide
+
+=== Chaque produit commence par une idée géniale ...
+
+qui a malheureusement de grandes chances de ne pas aboutir
+
+=== Nous avons tendance à ne pas construire le bon produit
+
+image::images/utilisationFonctionnalites.png[]
+
+=== Mode Big Bang
+
+* Le client sait exactement ce qu'il veut
+* Les développeurs savent exactement comment le faire
+* Rien ne change en cours de route
+
+image::images/bigbang.png[]
+
+=== Mode agile
+
+* Le client découvre ce qu'il veut
+* Les développeurs découvrent comment le faire
+* Les choses changent en cours de route
+
+image::images/agilereality.png[]
+
+== Le Manifeste Agile
+
+=== 4 valeurs
+
+Les individus et leurs interactions::
+  plus que les processus et les outils
+
+Du logiciel qui fonctionne::
+  plus qu'une documentation exhaustive
+
+La collaboration avec le client::
+  plus que la négociation contractuelle
+
+L'adaptation au changement::
+  plus que le suivi d'un plan
+
+=== 12 principes
+
+* Notre plus haute priorité est de satisfaire le client en livrant rapidement et régulièrement des fonctionnalités à haute valeur ajoutée.
+* Accueillez positivement les changements de besoins, même tard dans le projet. Les processus agiles exploitent le changement pour donner un avantage compétitif au client.
+
+=== 12 principes
+* Livrez fréquemment un logiciel opérationnel avec des cycles de quelques semaines à quelques mois et une préférence pour les plus courts.
+* Les utilisateurs ou leurs représentants et les développeurs doivent travailler ensemble quotidiennement tout au long du projet.
+
+=== 12 principes
+
+* Réalisez les projets avec des personnes motivées. Fournissez-leur l'environnement et le soutien dont ils ont besoin et faites-leurs confiance pour atteindre les objectifs fixés.
+* La méthode la plus simple et la plus efficace pour transmettre de l'information à l'équipe de développement et à l'intérieur de celle-ci est le dialogue en face-à-face.
+
+=== 12 principes
+
+* Un logiciel opérationnel est la principale mesure d'avancement.
+* Les processus agiles encouragent un rythme de développement soutenable. Ensemble, les commanditaires, les développeurs et les utilisateurs devraient être capables de maintenir indéfiniment un rythme constant.
+
+=== 12 principes
+
+* Une attention continue à l'excellence technique et à une bonne conception renforce l'agilité.
+* La simplicité - c'est-à-dire l'art de minimiser la quantité de travail inutile - est essentielle.
+
+=== 12 principes
+
+* Les meilleures architectures, spécifications et conceptions émergent d'équipes auto-organisées.
+* A intervalles réguliers, l'équipe réfléchit aux moyens de devenir plus efficace, puis règle et modifie son comportement en conséquence.
+
+== Itératif et incrémental
+
+=== Itératif et incrémental ?
+
+Itératif ::
+  Ne pas essayer de tout faire parfaitement du 1er coup
+
+Incrémental ::
+  Ne pas tout faire d'un seul coup
+
+=== Incréments "horizontaux"
+
+image::images/incrementsHorizontaux.png[]
+
+=== Incréments "verticaux"
+
+image::images/incrementsVerticaux.png[]
+
+=== Faire des itérations courtes
+
+image::images/petitesIterations.png[]
+
+=== Il est plus facile de planifier lorsque l'on livre fréquemment
+
+== Planning et estimations
+
+=== Il faut l'admettre, les prévisions sont presque toujours fausses...
+
+=== Vélocité
+
+Pour prévoir le futur, il faut connaître le passé
+
+image::images/prevoirFutur.png[]
+
+=== Planning basé sur la vélocité
+
+image::images/backlog_Jan.png[]
+
+image::images/backlog_Fev.png[]
+
+=== Planning basé sur la vélocité
+
+image::images/backlog_Prev.png[]
+
+=== Release burnup chart
+
+image::images/releaseBurnUp.png[]
+
+=== Release burnup chart
+
+image::images/releaseBurnUp_2.png[]
+
+=== Mais les fonctionnalités ont toutes des tailles différentes
+
+image::images/taillesDifferentes.png[]
+
+=== Estimation par taille relative des fonctionnalités
+
+image::images/tailleRelativeBurnUp.png[]
+
+=== Stratégies d'estimation agile
+
+* Ne pas estimer en temps, mais en taille relative et mesurer la vélocité par itération
+* Les estimations sont faites par les personnes qui réalisent le travail, pas par les personnes qui veulent que le travail soit fait
+* Estimer et ré-estimer continuellement pendant le projet, et ne pas se fier aux estimations du début
+
+=== Stratégies d'estimation agile
+
+* Préférer la communication verbale plutôt que les spécifications écrites sur-détaillées
+* Eviter les fasses précisions. Il est préférable d'être à peu près juste que précisément faux
+
+== Valeur
+
+=== Les fonctionnalités ont des valeurs différentes
+
+Et la valeur est indépendante de la taille
+
+=== Maximiser la valeur, pas la quantité
+
+[%notitle]
+=== Quote
+
+[quote, Antoine de Saint-Exupéry]
+____
+Il semble que la perfection soit atteinte, non pas quand il n'y a plus rien à ajouter, mais quand il n'y a plus rien à retrancher.
+____
+
+
+
+
+=== Exemple
+
+=== Ne donnez pas à l'équipe une solution à mettre en oeuvre
+
+=== Donnez leur un problème à résoudre
+
+=== Toujours préciser le pourquoi
+
+En tant que ...
+
+Je veux ...
+
+*Afin de* ...
+
+=== Améliorer la courbe de valeur
+
+=== Time-boxing
+
+=== Iron triangle
+
+=== Feedback
+
+Fréquence de livraison = vitesse d'apprentissage
+
+[quote, Charles Darwin]
+____
+Les espèces qui survivent ne sont pas les espèces les plus fortes, ni les plus intelligentes, mais celles qui s'adaptent le mieux aux changements
+____
+
+== Equipe
+
+=== Equipe pluri-disciplinaires
+
+=== Caractéristiques d'une super équipe
+
+* Co-localisée
+* Petite (3 à 7 personnes)
+* Auto-organisée
+* Pluri-disciplinaire
+
+=== Caractéristiques d'une super équipe
+
+* Avec une mission claire
+* A la capacité de mettre en production
+* En contact direct avec les utilisateurs
+* Ne réalise qu'une seule tâche à la fois
+* Transparente
+
+=== L'équipe alterne des travaux à longs et à courts termes
+
+=== L'équipe s'améliore continuellement
+
+C'est l'équipe elle-même qui définit ses axes d'amélioration et propose des solutions
+
+== La chose la plus importante n'est pas votre processus... mais le processus d'amélioration de votre processus

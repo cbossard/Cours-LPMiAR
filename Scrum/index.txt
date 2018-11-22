@@ -1,0 +1,122 @@
+= Scrum
+==============================
+:author:    Cécilia Bossard
+:backend:   revealjs
+:max-width: 45em
+:data-uri:
+:customcss:
+:icons: font
+:transition: fade
+:revealjs_history: true
+
+== Scrum
+
+Scrum propose un cadre pour développer, livrer et maintenir des produits complexes.
+
+== Définition
+
+Scrum est :
+
+* léger
+* simple à comprendre
+* difficile à maîtriser
+
+== L'équipe Scrum
+
+Scrum définit plusieurs rôles dans une équipe
+
+* Product Owner
+* Equipe de développement
+* Scrum Master
+
+=== Le Product Owner
+
+Le rôle du P.O. est de maximiser la valeur produite par l'équipe de développement.
+
+=== Le Product Owner
+
+C'est lui qui va gérer le Backlog de produit :
+
+Il va définir les fonctionnalités à développer, les prioriser, s'assurer de la compréhension des besoins par l'équipe de développement
+
+=== Le Product Owner
+
+Il est l'unique responsable de la priorisations des développements.
+
+=== L'équipe de développement
+
+L'équipe est constituée de professionnels capables de livrer des incréments fonctionnels du produit.
+
+=== L'équipe de développement
+
+Elle est auto-organisée et non hiérarchisée. Toutes les compétences nécessaires à la réalisation du produit sont réunies au sein de l'équipe.
+
+=== L'équipe de développement
+
+Elle est responsable dans son ensemble de la qualité de la réalisation.
+
+=== Le Scrum Master
+
+Le Scum Master protège l'équipe de développement.
+
+Il est le garant de la bonne application des pratiques.
+
+Son rôle s'apparente à celui d'un facilitateur.
+
+== Les événements
+
+Scrum définit plusieurs événements qui ont lieu au cours d'une itération (on peut aussi parler de cérémonies).
+
+=== Le sprint
+
+Le sprint est la durée pendant laquelle les développements ont lieu.
+
+Un sprint dure en général entre 2 et 3 semaines.
+
+Chaque sprint a un but particulier et aboutit à un produit fonctionnel et livrable.
+
+=== Le Sprint Planning
+
+Cette réunion a lieu au début de chaque sprint. Elle permet de définir ce qui sera inclus dans l'incrément à venir.
+
+Le Product Owner présente aux développeurs le but du sprint à venir ainsi que le backlog de produit. Ensemble, ils définissent les fonctionnalités à embarquer dans l'itération.
+
+=== Le Sprint Planning
+
+A l'issue de cette réunion, il y a un engagement fort de la part de l'équipe (dev + P.O.) à livrer ce qui a été défini.
+
+=== Daily Scrum
+
+Tous les jours, à la même heure, l'équipe se réunit pendant 15 minutes max pour faire un point d'avancement.
+
+=== Daily Scrum
+
+Chacun répond aux trois questions suivantes :
+
+* Qu'est ce que j'ai fait hier ?
+* Qu'est ce que je vais faire aujourd'hui ?
+* Est-ce que je vois des problèmes qui me bloquent ou vont me bloquer ?
+
+=== Daily Scrum
+
+Seule l'équipe de développement prend la parole lors de ce point rapide.
+
+Si des discussions doivent avoir lieu, elles ont lieu en dehors du point.
+
+=== Revue de Sprint (ou démo)
+
+A la fin de l'itération, l'équipe de développement va faire la démo de ce qui a été développé.
+
+Le but de cette démo est de récupérer un maximum de feedbacks de la part des futurs utilisateurs du produit.
+
+Le Product Owner se sert des ces retours pour affiner son backlog de produit.
+
+=== Rétrospective
+
+A la fin de l'itération, l'équipe complète (dev + P.O.) va prendre du temps pour réfléchir à la manière dont ils travaillent ensemble pour essayer de s'améliorer.
+
+Ils vont définir des améliorations qui seront mises en place immédiatement lors de l'itération suivante.
+
+== Pour résumer
+
+image::images/scrum.png[size=cover]
