@@ -153,7 +153,7 @@ image::images/tailleRelativeBurnUp.png[]
 === Stratégies d'estimation agile
 
 * Préférer la communication verbale plutôt que les spécifications écrites sur-détaillées
-* Eviter les fasses précisions. Il est préférable d'être à peu près juste que précisément faux
+* Eviter les fausses précisions. Il est préférable d'être à peu près juste que précisément faux
 
 == Valeur
 
