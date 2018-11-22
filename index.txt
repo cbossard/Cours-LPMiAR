@@ -12,8 +12,8 @@
 
 == Planning de la journée
 
-* link:../Agile/index.html[Qu'est ce que l'agilité ?]
+* link:./Agile/index.html[Qu'est ce que l'agilité ?]
 * Le Manifeste en pratique
-* link:../Scrum/index.html[Scrum]
-* link:../Kanban/index.html[Kanban]
-* link:../XP/index.html[XP]
+* link:./Scrum/index.html[Scrum]
+* link:./Kanban/index.html[Kanban]
+* link:./XP/index.html[XP]
