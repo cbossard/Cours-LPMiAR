@@ -41,7 +41,7 @@ Tests fonctionnels::
 === Qualité
 
 Test Driven Development::
-  Ecrire les tests unitaires en amont du code permet de réduire la boucle de feedback et assure un bonne couverture du code.
+  Ecrire les tests unitaires en amont du code permet de réduire la boucle de feedback et assure une bonne couverture du code.
 
 Intégration continue::
   Il faut régulièrement tester l'intégration du code développé par chaque membre de l'équipe. En poussant cette pratique à l'extrême, on teste l'intégration du code en permanence.
