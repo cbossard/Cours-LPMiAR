@@ -21,9 +21,39 @@ Elle fonctionne en regroupant toute l'équipe et en utilisant des *pratiques sim
 avec suffisamment de feedbacks pour permettre à l'équipe de voir où elle en est et
 pour adapter les pratiques à sa situation particulière.
 
+=== Origine
+
+Inventé par Kent Beck en 1996.
+
+Livre "Extreme Programming explained" en 1999.
+
+=== XP
+
+La méthode s'appuie sur la conception d'une solution optimisée qui répond le plus efficacement possible aux besoins du client.
+
+XP privilégie le souci de la qualité à la productivité.
+
+== Fonctionnement
+
+=== 4 phases
+
+Exploration::
+    Détermination des scénarios auxquels il faut répondre
+Planification::
+    Décomposition en tâches à réaliser
+Réalisation::
+    Développement en binôme
+Validation::
+    Validation des tests et livraison du produit
+
+[%notitle]
+=== Boucle de feedback
+
+image::images/XPFeedbackLoop.jpeg[size=cover]
+
 === 13 pratiques
 
-Le but est d'utiliser les bonnes pratiques de développement, et de les pousser à l'extrême
+Utiliser les bonnes pratiques de développement, et les pousser à l'extrême pour réduire la boucle de feedback
 
 [%notitle]
 == 13 pratiques
@@ -82,5 +112,18 @@ Equipe entière::
 
 Utilisation de métaphores::
   On utilise des analogies pour s'assurer d'une bonne compréhension entre le client et l'équipe de développement.
+
+== Avantages et inconvénients
+
+=== Avantages
+
+- Amélioration drastique de la qualité (binômage, TDD, ...)
+- Connaissance partagée du projet
+- Bonne vision de l'avancement (intégration continue, petites release, ...)
+
+=== Inconvénients
+
+- Fonctionne bien avec des équipes de petite taille
+- Demande de la rigueur et de l'expérience
 
 == XP est une méthode agile complémentaire des autres méthodes
